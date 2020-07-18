@@ -3,7 +3,7 @@ publish = "public"
 command = "hugo --gc --minify -b $URL"
 
 [build.environment]
-HUGO_THEME = "dimension"
+HUGO_THEME = "hugo-icarus"
 HUGO_VERSION = "0.73.0"
 HUGO_ENABLEGITINFO = "true"
 
