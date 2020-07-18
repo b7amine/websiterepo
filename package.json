@@ -7,7 +7,9 @@
     "autoprefixer": "^9.7.4",
     "postcss-cli": "^7.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "hugo-extended": "^0.74.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
